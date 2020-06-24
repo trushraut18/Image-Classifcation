@@ -4,6 +4,5 @@ This repository consists of MultiClass Colour Classification Model which categor
 Here is Link for Complete Colour Classification Dataset 
 ==============================================
 
-
-https://www.kaggle.com/trushraut18/datasets
+https://www.kaggle.com/trushraut18/colour-classification
 
